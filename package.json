@@ -1,0 +1,20 @@
+{
+  "name": "awesomebooks-es6",
+  "version": "1.0.0",
+  "description": "ES6 version for Awesome Books Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernando-silvabr66/awesomebooks-es6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernando-silvabr66/awesomebooks-es6/issues"
+  },
+  "homepage": "https://github.com/fernando-silvabr66/awesomebooks-es6#readme"
+}
