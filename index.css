@@ -18,7 +18,7 @@ a {
 }
 
 nav li a {
-  color: black;  
+  color: black;
 }
 
 .books-list-sec h1 {
@@ -69,7 +69,6 @@ nav li a {
   justify-content: space-between;
 }
 
-
 .books-list-sec {
   align-items: center;
   text-align: center;
@@ -109,12 +108,12 @@ nav {
 
 footer {
   margin-top: 10px;
-  margin-bottom: 10px;  
+  margin-bottom: 10px;
   padding: 2vh 2vw;
   font-weight: 700;
   border: 2px solid black;
   border-radius: 15px;
-}
+  }
 
 .book-fields-valid {
   display: none;
