@@ -1,9 +1,6 @@
 # awesomebooks-es6
 ES6 version for Awesome Books Project
 
-# webdevweek
-1st Dev Week - Capstone Project Week 1
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 
