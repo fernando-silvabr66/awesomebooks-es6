@@ -1,4 +1,5 @@
 module.exports = {
+    "parser": "babel-eslint",     
     "env": {
         "browser": true,
         "es2021": true
@@ -7,8 +8,6 @@ module.exports = {
         "eslint:recommended",
         "plugin:react/recommended"
     ],
-    "parser": "babel-eslint"
-    },
     "parserOptions": {
         "ecmaFeatures": {
             "jsx": true
