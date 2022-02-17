@@ -41,7 +41,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Github page for this project
 
-- https://fernando-silvabr66.github.io/webdevweek/
+- https://fernando-silvabr66.github.io/awesomebooks-es6/
 
 
 ## Authors
