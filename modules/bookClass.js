@@ -6,7 +6,7 @@ class Book {
     this.container = container;
   }
 
-    generateBooks =() => {
+    generateBooks = () => {
       this.container.innerHTML = '';
       if (localStorage.getItem('books') != null) {
         this.booksList = JSON.parse(localStorage.getItem('books'));
