@@ -10,7 +10,7 @@ class Menu {
       staticelements.contactNav.style.color = 'black';
     }
 
-    showBooksAdd= () => {
+    showBooksAdd = () => {
       staticelements.listBox.style.display = 'none';
       staticelements.contactBox.style.display = 'none';
       staticelements.addBox.style.display = 'flex';
@@ -21,7 +21,7 @@ class Menu {
       staticelements.contactNav.style.color = 'black';
     }
 
-    showContacts= () => {
+    showContacts = () => {
       staticelements.listBox.style.display = 'none';
       staticelements.contactBox.style.display = 'flex';
       staticelements.addBox.style.display = 'none';

@@ -43,7 +43,7 @@ class Book {
     this.saveDataLocalStorage(this.booksList);
   }
 
-  addNewBook =() => {
+  addNewBook = () => {
     const title = staticelements.title.value;
     const author = staticelements.author.value;
     if (title === '' || author === '') {
